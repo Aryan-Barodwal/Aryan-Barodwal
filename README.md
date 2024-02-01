@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan-barodwal&label=Profile%20views&color=0e75b6&style=flat" alt="aryan-barodwal" /> </p>
 
-- I’m currently working on **Front End development**
+- I’m currently a passionate **Front End development**
 
-- I’m currently learning **HTML5 and CSS3**
+- I’m currently skill with **HTML5, CSS3, Javascript ,GSAP for animations, Node js,Express js**
 
 - All of my projects are available at [on my GitHub account](on my GitHub account)
 
-- I regularly write articles on [linkedin](linkedin)
+- I regularly write articles on [linkedin](linkedin)  [twitter](twitter)
 
 - Ask me about **Things related to HTML5 and CSS3**
 
