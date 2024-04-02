@@ -6,13 +6,13 @@
 
 - I’m currently a passionate **Front End development**
 
-- I’m currently skill with **HTML5, CSS3, Javascript ,GSAP for animations, Node js,Express js**
+- I’m currently skill with **HTML5, CSS3, Javascript,Tailwind CSS ,GSAP for animations, Node js,Express js, Mongo DB, React js **
 
 - All of my projects are available at [on my GitHub account](on my GitHub account)
 
 - I regularly write articles on [linkedin](linkedin)  [twitter](twitter)
 
-- Ask me about **Things related to HTML5 and CSS3**
+- Ask me about **Things related to Web Developement**
 
 - How to reach me **https://www.linkedin.com/in/aryan-barodwal-783103269**
 
