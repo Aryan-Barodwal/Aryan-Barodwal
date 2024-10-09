@@ -6,7 +6,7 @@
 
 - I’m currently a passionate **Front End development**
 
-- I’m currently skill with **HTML5, CSS3, Javascript,Tailwind CSS ,GSAP for animations, Node js,Express js, Mongo DB, React js **
+- I’m currently skill with **Javascript, React js, Redux-Toolkit, Three js **
 
 - All of my projects are available at [on my GitHub account](on my GitHub account)
 
